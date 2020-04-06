@@ -23,5 +23,6 @@
 * O'tgan narsalar bo'yicha kichik vazifalar beriladi
 * `if` o'rgatiladi, misollar beriladi
 * `else` o'rgatiladi, misollar beriladi - `3-agar.md`
+* Uy vazifasi - `3-agar.md`
 
 https://creativecommons.org/share-your-work/public-domain/cc0/
