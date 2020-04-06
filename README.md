@@ -1,5 +1,5 @@
 # piton-uy-vazifalari
 
-Задания для выполнения на языке программирования Python
+Python vazifalari
 
-Лицензия - https://creativecommons.org/share-your-work/public-domain/cc0/
+https://creativecommons.org/share-your-work/public-domain/cc0/
